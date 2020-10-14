@@ -1,5 +1,5 @@
 # Codeforces problem search engine
-## Search engine app built with Python backend and ReactJS frontend 
+## Search engine app built with Flask backend and React frontend 
 ### A text based search engine based on tf - idf
 
 Backend Flask API at http://127.0.0.1:5000/ <br/>
