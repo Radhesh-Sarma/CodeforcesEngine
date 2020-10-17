@@ -106,10 +106,13 @@ def query(query, no_of_docs):
 
     if len(document_scores) < no_of_docs:
         for x in range(len(document_scores)):
-            result.append(document_scores[x][1])
+            if document_scores[x][0] != 0:
+                result.append(document_scores[x][1])
     else:
         for x in range(no_of_docs):
-            result.append(document_scores[x][1])
+            if document_scores[x][0] != 0:
+                result.append(document_scores[x][1])
 
+    print(result)
     return result
 
