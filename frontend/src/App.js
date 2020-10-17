@@ -1,7 +1,7 @@
 import React ,{Component}from 'react';
 import './App.css';
 import axios from 'axios';
-import { Form ,Button,Container,Table,Jumbotron} from 'react-bootstrap';
+import { Spinner,Card,Form ,Button,Container,Table,Jumbotron} from 'react-bootstrap';
 
 
 
@@ -24,17 +24,16 @@ class App extends Component {
     axios.post(`http://127.0.0.1:5000/`,data)
     .then(res => {this.setState( {searchresults: res["data"]["answer"]})})
 
- 
-
   }
 
 
   render(){
+
     return (
     
       <div className="App">
               <div className ="Heading">
-                              <Jumbotron fluid>
+            <Jumbotron fluid>
                     <Container>
                       <h1>Welcome to Codeforces Search Engine</h1>
     
@@ -50,7 +49,12 @@ class App extends Component {
     <Button variant="primary" size="lg" onClick = {evt => this.onSubmit(evt)} >
       Submit
     </Button>
+
+
   </Form>
+  <Card>
+  <Card.Body>Search Results show {this.state.searchresults.length} Results</Card.Body>
+</Card>
   </Container>
   
   <Table responsive>
@@ -71,6 +75,8 @@ class App extends Component {
     </tbody>
   </Table>
       </div>
+
+      
     );
   }
 };
