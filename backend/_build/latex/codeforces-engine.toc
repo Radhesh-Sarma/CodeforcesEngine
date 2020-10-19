@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}query module}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}preprocess module}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}api module}{3}{chapter.3}%
+\contentsline {chapter}{\numberline {4}docs\_precompute module}{4}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Indices and tables}{5}{chapter.5}%
+\contentsline {chapter}{Python Module Index}{6}{section*.15}%
+\contentsline {chapter}{Index}{7}{section*.16}%

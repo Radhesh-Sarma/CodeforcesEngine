@@ -1,0 +1,58 @@
+\begin{sphinxtheindex}
+\let\bigletter\sphinxstyleindexlettergroup
+\let\spxpagem \sphinxstyleindexpagemain
+\let\spxentry \sphinxstyleindexentry
+\let\spxextra \sphinxstyleindexextra
+
+  \bigletter A
+  \item \spxentry{after\_request()}\spxextra{in module api}, \hyperpage{3}
+  \item \spxentry{api}
+    \subitem \spxentry{module}, \hyperpage{3}
+
+  \indexspace
+  \bigletter C
+  \item \spxentry{calculate\_tf\_idf\_docs()}\spxextra{in module docs\_precompute}, \hyperpage{4}
+
+  \indexspace
+  \bigletter D
+  \item \spxentry{docs\_precompute}
+    \subitem \spxentry{module}, \hyperpage{4}
+
+  \indexspace
+  \bigletter E
+  \item \spxentry{endpoint}\spxextra{api.HelloWorld attribute}, \hyperpage{3}
+  \item \spxentry{expand\_query()}\spxextra{in module query}, \hyperpage{1}
+
+  \indexspace
+  \bigletter G
+  \item \spxentry{get()}\spxextra{api.HelloWorld method}, \hyperpage{3}
+  \item \spxentry{get\_docs()}\spxextra{in module docs\_precompute}, \hyperpage{4}
+
+  \indexspace
+  \bigletter H
+  \item \spxentry{HelloWorld}\spxextra{class in api}, \hyperpage{3}
+
+  \indexspace
+  \bigletter M
+  \item \spxentry{mediatypes()}\spxextra{api.HelloWorld method}, \hyperpage{3}
+  \item \spxentry{methods}\spxextra{api.HelloWorld attribute}, \hyperpage{3}
+  \item \spxentry{module}
+    \subitem \spxentry{api}, \hyperpage{3}
+    \subitem \spxentry{docs\_precompute}, \hyperpage{4}
+    \subitem \spxentry{preprocess}, \hyperpage{2}
+    \subitem \spxentry{query}, \hyperpage{1}
+
+  \indexspace
+  \bigletter P
+  \item \spxentry{post()}\spxextra{api.HelloWorld method}, \hyperpage{3}
+  \item \spxentry{pre\_process()}\spxextra{in module preprocess}, \hyperpage{2}
+  \item \spxentry{preprocess}
+    \subitem \spxentry{module}, \hyperpage{2}
+
+  \indexspace
+  \bigletter Q
+  \item \spxentry{query}
+    \subitem \spxentry{module}, \hyperpage{1}
+  \item \spxentry{query()}\spxextra{in module query}, \hyperpage{1}
+
+\end{sphinxtheindex}

@@ -1,0 +1,20 @@
+\indexentry{module@\spxentry{module}!query@\spxentry{query}|hyperpage}{1}
+\indexentry{query@\spxentry{query}!module@\spxentry{module}|hyperpage}{1}
+\indexentry{expand\_query() (in module query)@\spxentry{expand\_query()}\spxextra{in module query}|hyperpage}{1}
+\indexentry{query() (in module query)@\spxentry{query()}\spxextra{in module query}|hyperpage}{1}
+\indexentry{module@\spxentry{module}!preprocess@\spxentry{preprocess}|hyperpage}{2}
+\indexentry{preprocess@\spxentry{preprocess}!module@\spxentry{module}|hyperpage}{2}
+\indexentry{pre\_process() (in module preprocess)@\spxentry{pre\_process()}\spxextra{in module preprocess}|hyperpage}{2}
+\indexentry{module@\spxentry{module}!api@\spxentry{api}|hyperpage}{3}
+\indexentry{api@\spxentry{api}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{HelloWorld (class in api)@\spxentry{HelloWorld}\spxextra{class in api}|hyperpage}{3}
+\indexentry{endpoint (api.HelloWorld attribute)@\spxentry{endpoint}\spxextra{api.HelloWorld attribute}|hyperpage}{3}
+\indexentry{get() (api.HelloWorld method)@\spxentry{get()}\spxextra{api.HelloWorld method}|hyperpage}{3}
+\indexentry{mediatypes() (api.HelloWorld method)@\spxentry{mediatypes()}\spxextra{api.HelloWorld method}|hyperpage}{3}
+\indexentry{methods (api.HelloWorld attribute)@\spxentry{methods}\spxextra{api.HelloWorld attribute}|hyperpage}{3}
+\indexentry{post() (api.HelloWorld method)@\spxentry{post()}\spxextra{api.HelloWorld method}|hyperpage}{3}
+\indexentry{after\_request() (in module api)@\spxentry{after\_request()}\spxextra{in module api}|hyperpage}{3}
+\indexentry{module@\spxentry{module}!docs\_precompute@\spxentry{docs\_precompute}|hyperpage}{4}
+\indexentry{docs\_precompute@\spxentry{docs\_precompute}!module@\spxentry{module}|hyperpage}{4}
+\indexentry{calculate\_tf\_idf\_docs() (in module docs\_precompute)@\spxentry{calculate\_tf\_idf\_docs()}\spxextra{in module docs\_precompute}|hyperpage}{4}
+\indexentry{get\_docs() (in module docs\_precompute)@\spxentry{get\_docs()}\spxextra{in module docs\_precompute}|hyperpage}{4}
